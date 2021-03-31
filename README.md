@@ -1,6 +1,6 @@
 # E-Gas Service
 
-#Introduction
+Introduction
 
 E-gas system will provide a interface to the users by which  they can use service online.
 Using this system user can apply for new connection.
@@ -12,7 +12,7 @@ Objective
 E-Gas System is a web application which user can apply and know the information about gas online.
  This project provides an interface for the users to book gas. By using this gas system customers can be highly benefitted with vast areas of company’s services. 
 
-#Scope
+Scope
 
 This online gas service makes the path for LPG Gasconnection smooth one. 
 1. There are two basic users. Admin, Customers. 
@@ -22,7 +22,7 @@ This online gas service makes the path for LPG Gasconnection smooth one.
 5.Customers can update their address and phone numbers.
 6.Customers Receive mail after booking gas.
 
-#Modules
+Modules
 
 Admin: admin can able to perform following
 Admin keeps track of all consumers.
@@ -35,10 +35,10 @@ All users have their own profile on E-Gas service And perform following function
  Customers can do online booking and cancelation of LPG gas. 
 Customers can update their address and phone numbers.
 
-#Technologies
+Technologies
 
-Frontend: React.js 
-Backend: Springboot
+Frontend: React.js, 
+Backend: Springboot,
 Database : MySQL 
 
 Conclusion
